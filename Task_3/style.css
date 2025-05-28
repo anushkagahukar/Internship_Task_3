@@ -1,0 +1,64 @@
+/* Dark Theme */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #121212;
+  color: #e0e0e0;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #1f1f1f;
+  color: #00bcd4;
+  padding: 1rem;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  background-color: #1e1e1e;
+  padding: 20px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #00bcd4;
+  border: none;
+  color: #121212;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #008c9e;
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 10px;
+  margin-right: 10px;
+  width: 200px;
+}
+
+/* Responsive */
+@media (min-width: 600px) {
+  main {
+    padding: 40px;
+  }
+}
+
+@media (min-width: 1024px) {
+  main {
+    max-width: 800px;
+    margin: auto;
+  }
+}
