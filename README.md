@@ -35,29 +35,29 @@ git clone https://github.com/anushkagahukar/Internship_Task_3.git
 ```
 
 2. Get an OpenWeatherMap API Key
-Go to https://openweathermap.org/api
+- Go to https://openweathermap.org/api
 
-Sign up and get your free API key
+- Sign up and get your free API key
 
 3. Replace API Key
-Open script.js and replace:
-const apiKey = "YOUR_API_KEY";
-with your actual key:
-const apiKey = "abc123yourapikey";
+- Open script.js and replace:
+- const apiKey = "YOUR_API_KEY";
+- with your actual key:
+- const apiKey = "abc123yourapikey";
 
 4. Open in Browser
-Just open index.html in your browser to run the app.
+- Just open index.html in your browser to run the app.
 
-🖼 Preview
+### 🖼 Preview
 ![image](https://github.com/user-attachments/assets/eeed86b0-4a2d-4fa3-b5bf-2ffe6f4709e9)
 
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 HTML5
 
 CSS3 (Dark Theme + Media Queries)
 
 JavaScript (DOM, Event Handling, API Fetch)
 
-📬 Contact
+### 📬 Contact
 Email: anushkagahukar@gmail.com
